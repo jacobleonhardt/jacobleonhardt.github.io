@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/jacobleonhardt.github.io/static/css/main.2434bc42.chunk.css",
-    "main.js": "/jacobleonhardt.github.io/static/js/main.5b8939f6.chunk.js",
-    "main.js.map": "/jacobleonhardt.github.io/static/js/main.5b8939f6.chunk.js.map",
-    "runtime-main.js": "/jacobleonhardt.github.io/static/js/runtime-main.04bae41b.js",
-    "runtime-main.js.map": "/jacobleonhardt.github.io/static/js/runtime-main.04bae41b.js.map",
-    "static/js/2.d65b3392.chunk.js": "/jacobleonhardt.github.io/static/js/2.d65b3392.chunk.js",
-    "static/js/2.d65b3392.chunk.js.map": "/jacobleonhardt.github.io/static/js/2.d65b3392.chunk.js.map",
-    "index.html": "/jacobleonhardt.github.io/index.html",
-    "static/css/main.2434bc42.chunk.css.map": "/jacobleonhardt.github.io/static/css/main.2434bc42.chunk.css.map",
-    "static/js/2.d65b3392.chunk.js.LICENSE.txt": "/jacobleonhardt.github.io/static/js/2.d65b3392.chunk.js.LICENSE.txt",
-    "static/media/project-cards.css": "/jacobleonhardt.github.io/static/media/verticalExplorer-homepage.1e3c8540.jpg",
-    "static/media/askMeeple-logo_forPortfolio.aa518397.png": "/jacobleonhardt.github.io/static/media/askMeeple-logo_forPortfolio.aa518397.png",
-    "static/media/jleonhardt-portfolio-logo.fe270931.png": "/jacobleonhardt.github.io/static/media/jleonhardt-portfolio-logo.fe270931.png",
-    "static/media/pieflix-logo_forPortfolio.14595cdd.png": "/jacobleonhardt.github.io/static/media/pieflix-logo_forPortfolio.14595cdd.png",
-    "static/media/profile-pic.7a156f50.jpg": "/jacobleonhardt.github.io/static/media/profile-pic.7a156f50.jpg",
-    "static/media/robinhoop-logo_forPortfolio.96d9b7fd.png": "/jacobleonhardt.github.io/static/media/robinhoop-logo_forPortfolio.96d9b7fd.png",
-    "static/media/verticalExplorer-logo_forPortfolio.3c38bf7d.png": "/jacobleonhardt.github.io/static/media/verticalExplorer-logo_forPortfolio.3c38bf7d.png"
+    "main.css": "/static/css/main.33b4b3c4.chunk.css",
+    "main.js": "/static/js/main.5b8939f6.chunk.js",
+    "main.js.map": "/static/js/main.5b8939f6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5ebc510a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5ebc510a.js.map",
+    "static/js/2.d65b3392.chunk.js": "/static/js/2.d65b3392.chunk.js",
+    "static/js/2.d65b3392.chunk.js.map": "/static/js/2.d65b3392.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.33b4b3c4.chunk.css.map": "/static/css/main.33b4b3c4.chunk.css.map",
+    "static/js/2.d65b3392.chunk.js.LICENSE.txt": "/static/js/2.d65b3392.chunk.js.LICENSE.txt",
+    "static/media/project-cards.css": "/static/media/verticalExplorer-homepage.1e3c8540.jpg",
+    "static/media/askMeeple-logo_forPortfolio.aa518397.png": "/static/media/askMeeple-logo_forPortfolio.aa518397.png",
+    "static/media/jleonhardt-portfolio-logo.fe270931.png": "/static/media/jleonhardt-portfolio-logo.fe270931.png",
+    "static/media/pieflix-logo_forPortfolio.14595cdd.png": "/static/media/pieflix-logo_forPortfolio.14595cdd.png",
+    "static/media/profile-pic.7a156f50.jpg": "/static/media/profile-pic.7a156f50.jpg",
+    "static/media/robinhoop-logo_forPortfolio.96d9b7fd.png": "/static/media/robinhoop-logo_forPortfolio.96d9b7fd.png",
+    "static/media/verticalExplorer-logo_forPortfolio.3c38bf7d.png": "/static/media/verticalExplorer-logo_forPortfolio.3c38bf7d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.04bae41b.js",
+    "static/js/runtime-main.5ebc510a.js",
     "static/js/2.d65b3392.chunk.js",
-    "static/css/main.2434bc42.chunk.css",
+    "static/css/main.33b4b3c4.chunk.css",
     "static/js/main.5b8939f6.chunk.js"
   ]
 }
