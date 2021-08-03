@@ -37,6 +37,10 @@
     animation: fadeInBottom 1s;
 }
 
+#mobile-menu > a:hover {
+    cursor: pointer;
+}
+
 @keyframes backgroundFadeIn {
     0% {
         opacity: 0;
