@@ -1,0 +1,110 @@
+body {
+  margin: 0;
+  font-family: -apple-system, 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+#content {
+  max-width: 100%;
+  padding: 0;
+}
+
+.full {
+  display: block;
+  width: 100%;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 300;
+  margin: 0;
+}
+
+h1 {
+  font-size: 2.25em;
+}
+
+h2, h3 {
+  font-size: 1.75em;
+}
+
+h4 {
+  font-size: 1.5em;
+}
+
+p {
+  margin-bottom: 40px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.25em;
+  text-align: left;
+}
+
+#arrow.icon-link {
+  transition: .5s;
+  width: 50px;
+  display: flex;
+  align-items: center;
+  padding: 3px;
+  margin: 0 auto;
+  font-size: 62px;
+  color: #fff;
+  background: transparent;
+  animation: fadeInDown 5s;
+}
+
+@keyframes fadeInDown {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+
+a.icon-link:hover {
+  transition: .5s;
+  background-color: #F35D06;
+}
+
+button, a.button {
+  cursor: pointer;
+  transition: .75s;
+  padding: 10px 30px;
+  border: 0px;
+  border-radius: 30px;
+  margin-right: 10px;
+  color: #fff;
+  background: #F35D06;
+  text-decoration: none;
+  font-size: 1.25em;
+  font-family: 'Work Sans', sans-serif;
+}
+
+button:hover, a.button:hover {
+  background: #00315C;
+  transition: .75s;
+}
+
+button.alt, a.button.alt {
+  background: #045175;
+}
+
+button.alt:hover, a.button.alt:hover {
+  background: #F35D06;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+  h2, h3 {
+    font-size: 1.7em;
+  }
+
+  button, a.button {
+    display: block;
+    margin: 2% auto;
+  }
+
+}

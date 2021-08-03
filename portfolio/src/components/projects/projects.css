@@ -1,0 +1,9 @@
+#projects {
+    padding: 0;
+}
+
+img.project-logo {
+    max-width: 200px;
+    max-height: 200px;
+    margin: 0 auto;
+}
