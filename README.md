@@ -6,7 +6,6 @@ The Stack:
 - JavaScript
 - React
 - [React-Scroll](https://github.com/fisshy/react-scroll)
-- Imagination
 
 Third Parties:
 - Google Fonts
