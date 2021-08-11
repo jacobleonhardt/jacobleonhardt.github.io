@@ -6,8 +6,7 @@ const Pieflix = () => {
     return (
         <div id="pieflix" className="project" >
             <img src={pieflixLogo} alt="pieflix application logo" className="project-logo"/>
-            <p>So this started out as a joke with some friends, but ended up as
-                the capstone project for my software development program.
+            <p>Pieflix was my capstone project for my software development program.
                 Pieflix is a full-stack web application that creates pizza-movie
                  pairings based on user inputs. The app was constructed using
                  Python, Flask, and SQL Alchemy in the backend; and it was
