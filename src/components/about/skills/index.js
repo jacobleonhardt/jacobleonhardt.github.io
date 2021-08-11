@@ -14,13 +14,15 @@ const Skills = () => {
                 <i class="devicon-redux-original colored"></i>
                 <i class="devicon-python-plain colored"></i>
                 <i class="devicon-flask-original colored"></i>
+                <i class="devicon-express-original"></i>
                 <i class="devicon-sqlalchemy-plain"></i>
-                <i class="devicon-postgresql-plain colored"></i>
+                <i class="devicon-sequelize-plain"></i>
                 <i class="devicon-html5-plain colored"></i>
                 <i class="devicon-css3-plain colored"></i>
                 <i class="devicon-git-plain colored"></i>
                 <i class="devicon-github-original colored"></i>
                 <i class="devicon-ubuntu-plain colored"></i>
+                <i class="devicon-postgresql-plain"></i>
                 <i class="devicon-vscode-plain colored"></i>
                 <i class="devicon-wordpress-plain"></i>
                 <i class="devicon-photoshop-plain colored"></i>

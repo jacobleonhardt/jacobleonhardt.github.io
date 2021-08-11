@@ -29,7 +29,8 @@ const Mobile = () => {
                     <a onClick={toggleMobile} className="mobile-toggle"><ion-icon name="grid-outline"></ion-icon></a>}
             {isOpen ?
                 <div id="mobile-menu">
-                    <Link to="about" smooth={true} spy={true} duration={800} activeClass="active">About</Link>
+                    <Link to="skills" smooth={true} spy={true} duration={800} activeClass="active">Skills</Link>
+                    <Link to="bio" smooth={true} spy={true} duration={800} activeClass="active">Bio</Link>
                     <Link to="ask-meeple" smooth={true} spy={true} duration={800} activeClass="active">Ask Meeple</Link>
                     <Link to="pieflix" smooth={true} spy={true} duration={800} activeClass="active">Pieflix</Link>
                     <Link to="robinhoop" smooth={true} spy={true} duration={800} activeClass="active">Robinhoop</Link>

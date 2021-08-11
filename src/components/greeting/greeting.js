@@ -16,7 +16,7 @@ const Greeting = () => {
             <h1>Jacob Leonhardt</h1>
             <h2>A Creative Full-Stack Developer</h2>
             <Link className="button alt" onClick={viewResume}>Resume</Link>
-            <Link id='arrow' className="icon-link" to="about" smooth={true} spy={true} duration={800} activeClass="active"><ion-icon name="chevron-down-outline"></ion-icon></Link>
+            <Link id='arrow' className="icon-link" to="skills" smooth={true} spy={true} duration={800} activeClass="active"><ion-icon name="chevron-down-outline"></ion-icon></Link>
         </div>
     )
 }

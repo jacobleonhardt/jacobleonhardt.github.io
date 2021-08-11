@@ -3,7 +3,7 @@
     background: linear-gradient(to bottom, rgba(0,49,92,1), rgba(4, 81, 117,1));
     width: 100vw;
     height: 100vh;
-    padding: 4% 0;
+    padding: 2% 0;
     margin: 0 auto;
     text-align: center;
     display: flex;
@@ -14,6 +14,7 @@
 
 #additional {
     display: flex;
+    justify-content: left;
     flex-wrap: wrap;
 }
 
