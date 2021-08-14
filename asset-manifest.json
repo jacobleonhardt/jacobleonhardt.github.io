@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.33b4b3c4.chunk.css",
-    "main.js": "/static/js/main.5b8939f6.chunk.js",
-    "main.js.map": "/static/js/main.5b8939f6.chunk.js.map",
+    "main.css": "/static/css/main.b059ea28.chunk.css",
+    "main.js": "/static/js/main.b5a64b32.chunk.js",
+    "main.js.map": "/static/js/main.b5a64b32.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5ebc510a.js",
     "runtime-main.js.map": "/static/js/runtime-main.5ebc510a.js.map",
-    "static/js/2.d65b3392.chunk.js": "/static/js/2.d65b3392.chunk.js",
-    "static/js/2.d65b3392.chunk.js.map": "/static/js/2.d65b3392.chunk.js.map",
+    "static/js/2.87a7ddef.chunk.js": "/static/js/2.87a7ddef.chunk.js",
+    "static/js/2.87a7ddef.chunk.js.map": "/static/js/2.87a7ddef.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.33b4b3c4.chunk.css.map": "/static/css/main.33b4b3c4.chunk.css.map",
-    "static/js/2.d65b3392.chunk.js.LICENSE.txt": "/static/js/2.d65b3392.chunk.js.LICENSE.txt",
+    "static/css/main.b059ea28.chunk.css.map": "/static/css/main.b059ea28.chunk.css.map",
+    "static/js/2.87a7ddef.chunk.js.LICENSE.txt": "/static/js/2.87a7ddef.chunk.js.LICENSE.txt",
     "static/media/project-cards.css": "/static/media/verticalExplorer-homepage.1e3c8540.jpg",
     "static/media/askMeeple-logo_forPortfolio.aa518397.png": "/static/media/askMeeple-logo_forPortfolio.aa518397.png",
     "static/media/jleonhardt-portfolio-logo.fe270931.png": "/static/media/jleonhardt-portfolio-logo.fe270931.png",
     "static/media/pieflix-logo_forPortfolio.14595cdd.png": "/static/media/pieflix-logo_forPortfolio.14595cdd.png",
     "static/media/profile-pic.7a156f50.jpg": "/static/media/profile-pic.7a156f50.jpg",
-    "static/media/robinhoop-logo_forPortfolio.96d9b7fd.png": "/static/media/robinhoop-logo_forPortfolio.96d9b7fd.png",
-    "static/media/verticalExplorer-logo_forPortfolio.3c38bf7d.png": "/static/media/verticalExplorer-logo_forPortfolio.3c38bf7d.png"
+    "static/media/robinhoop-logo_forPortfolio.96d9b7fd.png": "/static/media/robinhoop-logo_forPortfolio.96d9b7fd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5ebc510a.js",
-    "static/js/2.d65b3392.chunk.js",
-    "static/css/main.33b4b3c4.chunk.css",
-    "static/js/main.5b8939f6.chunk.js"
+    "static/js/2.87a7ddef.chunk.js",
+    "static/css/main.b059ea28.chunk.css",
+    "static/js/main.b5a64b32.chunk.js"
   ]
 }
