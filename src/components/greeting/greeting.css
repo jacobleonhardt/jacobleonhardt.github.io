@@ -23,3 +23,8 @@
 #arrow ion-icon:hover {
     cursor: pointer;
 }
+
+a#resume {
+    margin: 0 auto;
+    margin-bottom: 32px;
+}
