@@ -5,7 +5,6 @@
     justify-content: center;
     color: #fff;
     background: linear-gradient(270deg, #921210, #045175);
-    width: 100vw;
     height: 100vh;
     padding: 4% 0;
     margin: 0 auto;
@@ -14,13 +13,13 @@
 
 #bio .left {
     display: inline-block;
-    width: 38%;
+    width: 35%;
     padding: 1%;
 }
 
 #bio .right {
     display: inline-block;
-    width: 58%;
+    width: 60%;
     padding: 1%;
 }
 

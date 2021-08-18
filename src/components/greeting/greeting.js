@@ -7,7 +7,7 @@ import './greeting.css'
 const Greeting = () => {
 
     const viewResume = () => {
-        window.open("https://drive.google.com/file/d/1gHM7VMonOlTFv0yIvumT2QWTZaScCdZO/view?usp=sharing", '_blank')
+        window.open("https://drive.google.com/file/d/1sPJRTKaOGGQLI4BDCj0RDR25NlczWbwe/view?usp=sharing", '_blank')
     }
 
     return (
