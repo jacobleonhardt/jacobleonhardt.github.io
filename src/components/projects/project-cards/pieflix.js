@@ -9,9 +9,9 @@ const Pieflix = () => {
             <p>Pieflix was my capstone project for my software development program.
                 Pieflix is a full-stack web application that creates pizza-movie
                  pairings based on user inputs. The app was constructed using
-                 Python, Flask, and SQL Alchemy in the backend; and it was
+                 Python, Flask, and SQLAlchemy in the backend; and it was
                  designed with JavaScript, React, Redux and custom CSS in the
-                 frontend. One thing I've quite proud of is that the end result
+                 frontend. One thing I'm quite proud of is that the end result
                  of the project almost perfectly matches the wireframe. The
                  project was a blast to build!</p>
             <a href="https://pieflix.herokuapp.com/" target="_blank" className="button alt">Checkout pieflix</a>
