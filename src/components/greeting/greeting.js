@@ -1,5 +1,4 @@
 import React from 'react'
-import * as Scroll from 'react-scroll'
 import { Link } from 'react-scroll'
 import leonhardtLogo from '../../photos/jleonhardt-portfolio-logo.png';
 import './greeting.css'
