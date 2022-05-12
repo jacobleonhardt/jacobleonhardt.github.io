@@ -23,10 +23,8 @@ const Skills = () => {
                 <i class="devicon-github-original colored"></i>
                 <i class="devicon-ubuntu-plain colored"></i>
                 <i class="devicon-vscode-plain colored"></i>
-                <i class="devicon-jira-plain-wordmark colored"></i>
+                <i class="devicon-jira-plain colored"></i>
                 <i class="devicon-wordpress-plain"></i>
-                <i class="devicon-photoshop-plain colored"></i>
-                <i class="devicon-illustrator-plain colored"></i>
             </div>
         </div>
     )
