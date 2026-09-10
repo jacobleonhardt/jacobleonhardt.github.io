@@ -1,26 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.b0bfb3e7.chunk.css",
-    "main.js": "/static/js/main.c4f0bba2.chunk.js",
-    "main.js.map": "/static/js/main.c4f0bba2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5ebc510a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5ebc510a.js.map",
-    "static/js/2.87a7ddef.chunk.js": "/static/js/2.87a7ddef.chunk.js",
-    "static/js/2.87a7ddef.chunk.js.map": "/static/js/2.87a7ddef.chunk.js.map",
+    "main.css": "/static/css/main.770bfe68.css",
+    "main.js": "/static/js/main.77e9d2a6.js",
+    "static/media/profile-pic-new.jpg": "/static/media/profile-pic-new.56c0d9030703b43fcc5a.jpg",
+    "static/media/askMeeple-homepage.jpg": "/static/media/askMeeple-homepage.9dac3b96d8e9137f445c.jpg",
+    "static/media/pieflix-homepage.jpg": "/static/media/pieflix-homepage.b0578a0de7e09c160495.jpg",
+    "static/media/robinhoop-homepage.jpg": "/static/media/robinhoop-homepage.c980096cdf8da9063c94.jpg",
+    "static/media/verticalExplorer-homepage.jpg": "/static/media/verticalExplorer-homepage.1e3c8540454224fab866.jpg",
+    "static/media/robinhoop-logo_forPortfolio.png": "/static/media/robinhoop-logo_forPortfolio.96d9b7fd311e24355582.png",
+    "static/media/askMeeple-logo_forPortfolio.png": "/static/media/askMeeple-logo_forPortfolio.aa51839785afdb82f40e.png",
+    "static/media/jleonhardt-portfolio-logo.png": "/static/media/jleonhardt-portfolio-logo.fe2709318032aa149193.png",
+    "static/media/pieflix-logo_forPortfolio.png": "/static/media/pieflix-logo_forPortfolio.14595cdda24575cb915b.png",
     "index.html": "/index.html",
-    "static/css/main.b0bfb3e7.chunk.css.map": "/static/css/main.b0bfb3e7.chunk.css.map",
-    "static/js/2.87a7ddef.chunk.js.LICENSE.txt": "/static/js/2.87a7ddef.chunk.js.LICENSE.txt",
-    "static/media/project-cards.css": "/static/media/verticalExplorer-homepage.1e3c8540.jpg",
-    "static/media/askMeeple-logo_forPortfolio.aa518397.png": "/static/media/askMeeple-logo_forPortfolio.aa518397.png",
-    "static/media/jleonhardt-portfolio-logo.fe270931.png": "/static/media/jleonhardt-portfolio-logo.fe270931.png",
-    "static/media/pieflix-logo_forPortfolio.14595cdd.png": "/static/media/pieflix-logo_forPortfolio.14595cdd.png",
-    "static/media/profile-pic.7a156f50.jpg": "/static/media/profile-pic.7a156f50.jpg",
-    "static/media/robinhoop-logo_forPortfolio.96d9b7fd.png": "/static/media/robinhoop-logo_forPortfolio.96d9b7fd.png"
+    "main.770bfe68.css.map": "/static/css/main.770bfe68.css.map",
+    "main.77e9d2a6.js.map": "/static/js/main.77e9d2a6.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.5ebc510a.js",
-    "static/js/2.87a7ddef.chunk.js",
-    "static/css/main.b0bfb3e7.chunk.css",
-    "static/js/main.c4f0bba2.chunk.js"
+    "static/css/main.770bfe68.css",
+    "static/js/main.77e9d2a6.js"
   ]
 }
