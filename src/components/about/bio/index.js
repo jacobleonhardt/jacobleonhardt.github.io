@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-scroll'
-import headshot from '../../../photos/profile-pic.jpg'
+import headshot from '../../../photos/profile-pic-new.jpg'
 import './bio.css'
 
 const Bio = () => {
